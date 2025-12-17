@@ -1,4 +1,4 @@
-# 📈 Trading Assignment – Full Stack Application
+# 📈 Limit-Order Exchange Mini Engine – Full Stack Application
 
 This project is a simple trading system consisting of a **Laravel backend API** and a **Vue 3 frontend SPA**.  
 Both applications run independently and communicate via REST APIs and real-time WebSocket events.
